@@ -1,0 +1,4 @@
+The Shawshank Redemption|Frank Darabont|Drama|142|1994|Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.|9.3/10|10:00, 14:00, 18:00|shaw.jpg
+The Godfather|Francis Ford Coppola|Crime|175|1972|The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.|9.2/10|11:00, 15:00, 19:00|shaw.jpg
+Pulp Fiction|Quentin Tarantino|Crime|154|1994|The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.|8.9/10|12:00, 16:00, 20:00|shaw.jpg
+Minions|Pierre Coffin, Kyle Balda|Comedy, Family|91|2015|Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.|6,4|10:00, 14:25, 18:00|default_poster.jpg
