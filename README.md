@@ -1,9 +1,9 @@
 # PBO-Bioskop
 # Initialize data
-        self.konsumen_db = [
+        akun konsumen = [
             Konsumen("budi", "123"),
             Konsumen("alya", "password1")
         ]
-        self.admin_db = [
+        akun admin = [
         Admin("admin", "admin123")
         ]
